@@ -8,6 +8,6 @@ Go through the different examples and see what they return. Discuss the reasons 
 
 ## Note - DON'T GOOGLE
 
-For this exercise, it's very important that you don't google or look anything up. The point here is to pracitice reasoning about code. Look at the code, see what it returns, and you can figure out the whys and the hows. 
+For this exercise, it's very important that you don't google or look anything up. The point here is to practice reasoning about code. Look at the code, see what it returns, and you can figure out the whys and the hows. 
 
 
